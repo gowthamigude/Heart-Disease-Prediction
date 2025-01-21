@@ -1,0 +1,22 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\gudeg>  pip show streamlit
+Name: streamlit
+Version: 1.41.1
+Summary: A faster way to build and share data apps
+Home-page: https://streamlit.io
+Author: Snowflake Inc
+Author-email: hello@streamlit.io
+License: Apache License 2.0
+Location: C:\Users\gudeg\AppData\Roaming\Python\Python313\site-packages
+Requires: altair, blinker, cachetools, click, gitpython, numpy, packaging, pandas, pillow, protobuf, pyarrow, pydeck, requests, rich, tenacity, toml, tornado, typing-extensions, watchdog
+Required-by:
+PS C:\Users\gudeg> C:\Users\gudeg\AppData\Roaming\Python\Python313\Scripts\streamlit.exe run app.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8503
+  Network URL: http://192.168.1.83:8503
